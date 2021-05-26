@@ -15,7 +15,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-Install the Django, DRF etc.
+Install the Django, DRF, psycopg2.
 ```
 pip3 install django django-rest-framework psycopg2
 ```
