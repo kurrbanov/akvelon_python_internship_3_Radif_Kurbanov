@@ -48,7 +48,7 @@ Granting permission to the user:
 GRANT ALL PRIVILEGES ON DATABASE akvelon_db TO akvelon_user;
 ```
 
-Runserver with ```manage.py``` and use the endpoints in file ```urls.py```
+Runserver with ```manage.py``` and use the endpoints which describes in file ```urls.py```
 ```
 ./manage.py runserver
 ```
